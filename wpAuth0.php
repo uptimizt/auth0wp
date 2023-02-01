@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name:       Auth0
+ * Plugin Name:       @ Auth0
  * Plugin URL:        https://github.com/auth0/wordpress
  * Description:       Supercharge your WordPress website with Auth0. Improve account security, add support for multifactor, enable social, passwordless and enterprise connections, and much more.
  * Version:           5.0.1
